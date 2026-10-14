@@ -1,3 +1,5 @@
+ended last lab after finishing step five of Lab 8
+   
    # MentorPi Simulation
  
    **Course:** RAS 212, Introduction to ROS 2, Kansas State University Salina
